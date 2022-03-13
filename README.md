@@ -3,3 +3,4 @@
 
 [![codewars](https://www.codewars.com/users/cborovskoy/badges/small)](https://www.codewars.com/users/cborovskoy)  
 - 📫 How to reach me **cborovskoy@gmail.com**
+- 🌍 I speak Russian (native), English
