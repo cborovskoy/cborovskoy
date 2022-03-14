@@ -13,5 +13,6 @@
 - Python
 
 <p align="left"> 
- <img src="https://github.com/cborovskoy/cborovskoy/blob/f9d09f1b33e05938eb656650edec0990694b1371/pics/logo_js.svg" alt="js" width="40" height="40"/>
+ <img src="https://github.com/cborovskoy/cborovskoy/blob/4b90deca470bdcb35efb4f23274326b812f3d8ad/pics/logo_js.svg" alt="JavaScript" width="40" height="40"/>
+ <img src="https://github.com/cborovskoy/cborovskoy/blob/fe249098ce174619704f221d1b812c599d9bf181/pics/logo_python.svg" alt="Python" width="40" height="40"/>
 </p>
