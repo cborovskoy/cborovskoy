@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me **cborovskoy@gmail.com** and <a href="https://t.me/cconcierge_bot" target="_blank">
-  <img src="https://github.com/cborovskoy/cborovskoy/blob/00f886d2334592e611d88331769ee30f5b3e2612/pics/logo_telegram.png" height="12" />
+  <img src="https://github.com/cborovskoy/cborovskoy/blob/9cf6c798490e53c3ecbd091d489d9d825e7340a4/pics/logo_telegram.png" height="12" />
   CConcierge_bot</a> in telegram 
 - 🌍 I speak English, Russian (native)
 - [![codewars](https://www.codewars.com/users/cborovskoy/badges/small)](https://www.codewars.com/users/cborovskoy)  
