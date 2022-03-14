@@ -3,11 +3,15 @@
 
 
 - 📫 How to reach me **cborovskoy@gmail.com** and <a href="https://t.me/cconcierge_bot" target="_blank">
-  <img src="https://github.com/cborovskoy/cborovskoy/blob/9cf6c798490e53c3ecbd091d489d9d825e7340a4/pics/logo_telegram.png" height="12" />
-  CConcierge_bot</a> in telegram 
+  <img src="https://github.com/cborovskoy/cborovskoy/blob/186172a344fa06712b4fafa38ac876ca4198f6c9/pics/logo_telegram.svg" width="12" height="12" />
+  **CConcierge_bot**</a> in telegram 
 - 🌍 I speak English, Russian (native)
 - [![codewars](https://www.codewars.com/users/cborovskoy/badges/small)](https://www.codewars.com/users/cborovskoy)  
 
+### Languages:
+- JavaScript
+- Python
 
-
-
+<p align="left"> 
+ <img src="https://github.com/cborovskoy/cborovskoy/blob/f9d09f1b33e05938eb656650edec0990694b1371/pics/logo_js.svg" alt="js" width="40" height="40"/>
+</p>
