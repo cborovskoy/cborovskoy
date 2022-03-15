@@ -29,7 +29,7 @@
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f9060f2f19400851c66ae29a50a14b55a173a21c/pics/logo_css.svg" alt="CSS" width="40" height="40"/></td>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83ec73f71aa33f28925484221d731d96d6380b0c/pics/logo_regex.svg" alt="RegEx" width="40" height="40"/></td>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f3409e2d1b73769e8e50130472649e8391db2aee/pics/logo_markdown.svg" alt="Markdown" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f3409e2d1b73769e8e50130472649e8391db2aee/pics/logo_markdown.svg" alt="Markdown" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" alt="python-telegram-bot" width="40" height="40"/></td>
 </tr> 
 <tr>
   <td>React</td>
