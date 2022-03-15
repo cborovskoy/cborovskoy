@@ -50,9 +50,9 @@
     <td><img src="https://www.e-medicalonline.com/501-home_default/lene-met-07-usp-6-0-45cm-177-2x-reverse-cutting-3-8-100mm-039-250m.jpg" alt="React" width="40" height="40"/></td>
   </tr> 
   <tr>
-    <td>React</td>
-    <td>React</td>
-    <td>React</td>
+    <td>Git</td>
+    <td>WebStorm</td>
+    <td>PyCharm</td>
   </tr> 
   
 </table>
