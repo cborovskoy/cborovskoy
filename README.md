@@ -45,14 +45,16 @@
 ### Tools
 <table>
   <tr>
-    <td><img src="https://www.e-medicalonline.com/501-home_default/lene-met-07-usp-6-0-45cm-177-2x-reverse-cutting-3-8-100mm-039-250m.jpg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://www.e-medicalonline.com/501-home_default/lene-met-07-usp-6-0-45cm-177-2x-reverse-cutting-3-8-100mm-039-250m.jpg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://www.e-medicalonline.com/501-home_default/lene-met-07-usp-6-0-45cm-177-2x-reverse-cutting-3-8-100mm-039-250m.jpg" alt="React" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
   </tr> 
   <tr>
     <td>Git</td>
     <td>WebStorm</td>
     <td>PyCharm</td>
+    <td>jupyter</td>
+    <td>figma</td>
   </tr> 
   
 </table>
