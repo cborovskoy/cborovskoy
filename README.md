@@ -45,11 +45,11 @@
 ### Tools
 <table>
   <tr>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/bbec738242be0d7e86efa22f61f7dea38fd216fc/pics/logo_git.svg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/bbec738242be0d7e86efa22f61f7dea38fd216fc/pics/logo_git.svg" alt="Git" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/8ba840a9bb822f688d16d387303ee87ff502cb16/pics/logo_webstorm.svg" alt="WebStorm" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/8ba840a9bb822f688d16d387303ee87ff502cb16/pics/logo_pycharm.svg" alt="PyCharm" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="jupyter" width="40" height="40"/></td>
+    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="figma" width="40" height="40"/></td>
   </tr> 
   <tr>
     <td>Git</td>
