@@ -23,8 +23,8 @@
 ### Technologies
 <table>
 <tr>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/4b90deca470bdcb35efb4f23274326b812f3d8ad/pics/logo_js.svg" alt="JavaScript" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/fe249098ce174619704f221d1b812c599d9bf181/pics/logo_python.svg" alt="Python" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0e36e90968052547f4f106e893208b28936d319e/pics/logo_html.svg" alt="JavaScript" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0e36e90968052547f4f106e893208b28936d319e/pics/logo_markdown.svg" alt="Python" width="40" height="40"/></td>
 </tr> 
 <tr>
   <td>HTML</td>
