@@ -24,9 +24,11 @@
 <table>
 <tr>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0e36e90968052547f4f106e893208b28936d319e/pics/logo_html.svg" alt="JavaScript" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0e36e90968052547f4f106e893208b28936d319e/pics/logo_html.svg" alt="JavaScript" width="40" height="40"/></td>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f3409e2d1b73769e8e50130472649e8391db2aee/pics/logo_markdown.svg" alt="Python" width="40" height="40"/></td>
 </tr> 
 <tr>
+  <td>React</td>
   <td>HTML</td>
   <td>Markdown</td>
 </tr>
