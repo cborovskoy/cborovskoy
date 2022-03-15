@@ -45,11 +45,26 @@
 ### Tools
 <table>
   <tr>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/bbec738242be0d7e86efa22f61f7dea38fd216fc/pics/logo_git.svg" alt="Git" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/8ba840a9bb822f688d16d387303ee87ff502cb16/pics/logo_webstorm.svg" alt="WebStorm" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/8ba840a9bb822f688d16d387303ee87ff502cb16/pics/logo_pycharm.svg" alt="PyCharm" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/63809e9e7d8a902b884b947b946ddf7f7ac151b4/pics/logo_jupyter.svg" alt="jupyter" width="40" height="40"/></td>
-    <td><img src="https://github.com/cborovskoy/cborovskoy/blob/600cd0d14ddbb523c9a9c0fc925d690b1ad50b31/pics/logo_figma.svg" alt="figma" width="40" height="40"/></td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/bbec738242be0d7e86efa22f61f7dea38fd216fc/pics/logo_git.svg" alt="Logo Git" width="40" height="40"/>
+    </td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/8ba840a9bb822f688d16d387303ee87ff502cb16/pics/logo_webstorm.svg" alt="Logo WebStorm" width="40" height="40"/>       </td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/8ba840a9bb822f688d16d387303ee87ff502cb16/pics/logo_pycharm.svg" alt="Logo PyCharm" width="40" height="40"/>
+    </td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/63809e9e7d8a902b884b947b946ddf7f7ac151b4/pics/logo_jupyter.svg" alt="Logo jupyter" width="40" height="40"/>
+    </td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/600cd0d14ddbb523c9a9c0fc925d690b1ad50b31/pics/logo_figma.svg" alt="Logo figma" width="40" height="40"/>
+    </td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/01bf71d3dd95639e73c3c9c561c2edf92fc382d9/pics/logo_photoshop.svg" alt="Logo Photoshop" width="40" height="40"/>
+    </td>
+    <td>
+      <img src="https://github.com/cborovskoy/cborovskoy/blob/01bf71d3dd95639e73c3c9c561c2edf92fc382d9/pics/logo_after-effects.svg" alt="Logo After Effects" width="40" height="40"/>
+    </td>
   </tr> 
   <tr>
     <td>Git</td>
@@ -57,6 +72,8 @@
     <td>PyCharm</td>
     <td>jupyter</td>
     <td>figma</td>
+    <td>Photoshop</td>
+    <td>After Effects</td>
   </tr> 
   
 </table>
