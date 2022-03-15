@@ -8,7 +8,7 @@
 - 🌍 I speak English, Russian (native)
 - [![codewars](https://www.codewars.com/users/cborovskoy/badges/small)](https://www.codewars.com/users/cborovskoy)  
 
-### Languages:
+### Languages
 <table>
 <tr>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/4b90deca470bdcb35efb4f23274326b812f3d8ad/pics/logo_js.svg" alt="JavaScript" width="40" height="40"/></td>
@@ -20,7 +20,7 @@
 </tr>
 </table>
 
-### Technologies:
+### Technologies
 <table>
 <tr>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/4b90deca470bdcb35efb4f23274326b812f3d8ad/pics/logo_js.svg" alt="JavaScript" width="40" height="40"/></td>
