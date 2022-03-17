@@ -35,9 +35,9 @@
            alt="RegEx" width="40" height="40"/></td>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f3409e2d1b73769e8e50130472649e8391db2aee/pics/logo_markdown.svg"
            alt="Markdown" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/45469f521abed112b5854710de01b062a4f30c34/pics/logo_pandas.svg" 
            alt="python-telegram-bot" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/45469f521abed112b5854710de01b062a4f30c34/pics/logo_plotly.svg" 
            alt="python-telegram-bot" width="40" height="40"/></td>
   <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
            alt="python-telegram-bot" width="40" height="40"/></td>
@@ -49,9 +49,9 @@
   <td>CSS</td>
   <td>RegEx</td>
   <td>Markdown</td>
-  <td>python-telegram-bot</td>
   <td>pandas</td>
   <td>plotly</td>
+  <td>python-telegram-bot</td>
 </tr>
 </table>
 
