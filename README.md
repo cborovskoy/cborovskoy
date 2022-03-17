@@ -23,13 +23,24 @@
 ### Technologies
 <table>
 <tr>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg" alt="React" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0b9f063ebd226f3fa12571cb27959af3ae87eaf5/pics/logo_redux.svg" alt="Redux" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0e36e90968052547f4f106e893208b28936d319e/pics/logo_html.svg" alt="HTML" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f9060f2f19400851c66ae29a50a14b55a173a21c/pics/logo_css.svg" alt="CSS" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83ec73f71aa33f28925484221d731d96d6380b0c/pics/logo_regex.svg" alt="RegEx" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f3409e2d1b73769e8e50130472649e8391db2aee/pics/logo_markdown.svg" alt="Markdown" width="40" height="40"/></td>
-  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" alt="python-telegram-bot" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/eaf3735c17733b7501f6134f86ce3987cf24d2d2/pics/logo_react.svg"
+           alt="React" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0b9f063ebd226f3fa12571cb27959af3ae87eaf5/pics/logo_redux.svg"
+           alt="Redux" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/0e36e90968052547f4f106e893208b28936d319e/pics/logo_html.svg"
+           alt="HTML" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f9060f2f19400851c66ae29a50a14b55a173a21c/pics/logo_css.svg"
+           alt="CSS" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83ec73f71aa33f28925484221d731d96d6380b0c/pics/logo_regex.svg"
+           alt="RegEx" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/f3409e2d1b73769e8e50130472649e8391db2aee/pics/logo_markdown.svg"
+           alt="Markdown" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
+           alt="python-telegram-bot" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
+           alt="python-telegram-bot" width="40" height="40"/></td>
+  <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
+           alt="python-telegram-bot" width="40" height="40"/></td>
 </tr> 
 <tr>
   <td>React</td>
@@ -39,6 +50,8 @@
   <td>RegEx</td>
   <td>Markdown</td>
   <td>python-telegram-bot</td>
+  <td>pandas</td>
+  <td>plotly</td>
 </tr>
 </table>
 
