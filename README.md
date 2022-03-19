@@ -64,7 +64,6 @@
                alt="Logo pyowm" width="40" height="40"/></td>
       <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
                alt="Logo python-telegram-bot" width="40" height="40"/></td>
-      
     </tr> 
     <tr>
       <td>pandas</td>
