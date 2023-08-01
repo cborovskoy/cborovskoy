@@ -62,6 +62,8 @@
                alt="Logo Pillow" width="40" height="40"/></td>
       <td><img src="https://github.com/cborovskoy/cborovskoy/blob/ffbd68808fc41a0d06b4343a2b2c57683b0db288/pics/logo_pyowm.png" 
                alt="Logo pyowm" width="40" height="40"/></td>
+      <td><img src="https://github.com/cborovskoy/cborovskoy/blob/246a967fcff149831ddbe7e6f8522694223932f2/pics/logo_aiogram.png" 
+               alt="Logo aiogram" width="40" height="40"/></td>
       <td><img src="https://github.com/cborovskoy/cborovskoy/blob/83fd68eb3dfaddf96100bb35dc2b90756b91dfe1/pics/logo_python-telegram-bot.png" 
                alt="Logo python-telegram-bot" width="40" height="40"/></td>
     </tr> 
@@ -70,6 +72,7 @@
       <td>plotly</td>
       <td>Pillow</td>
       <td>pyowm</td>
+      <td>aiogram</td>
       <td>python-telegram-bot</td>
     </tr>
   </table>
